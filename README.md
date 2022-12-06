@@ -8,8 +8,9 @@
     foi colocarmos uma "pitada" de Random na copa, e você me pergunta o por que? Eu te respondo:
     Por que o Futebol tem suas Zebras, seus lances mágicos, e suas variáveis inimaginaveis né?
     Além quem ganha e passa para a próxima fase é o time que tiver mais pontuações, e os chaveamentos são baseados das chaves da FIFA
-    para montar a copa.
-  </text>
+    para montar a copa.<text/><br>
+      <br><text>Visite meu LinkedIn:<text/>
+  <br><a href="https://www.linkedin.com/in/gabriel-oliveira-607682231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
 
 ##
